@@ -46,6 +46,8 @@ function getBalance() public view returns(uint) {
 }
 
 
+## Please see screenshots for successful deposits and updated address balances.
+
 ![Screenshot (26)](https://user-images.githubusercontent.com/79285543/126877099-91a9d1bc-54b3-4fa7-b4a9-798ea7f8b331.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/79285543/126877100-2dba51bc-87df-4490-8b03-24f26fb874de.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/79285543/126877101-152daa38-312e-4c64-89f7-1cd00a993038.png)
